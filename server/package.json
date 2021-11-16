@@ -18,7 +18,7 @@
     "@types/passport": "^0.4.3",
     "@types/redlock": "^3.0.2",
     "@types/request-promise-native": "^1.0.14",
-    "aws-sdk": "^2.400.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.2",
     "common": "*",
     "commonmark": "^0.28.1",
